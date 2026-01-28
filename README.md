@@ -214,56 +214,6 @@ A simple **Flask RESTful API** that manages **Courses**, **Students**, and **Enr
 
 ---
 
-## 📂 Project Structure
-
-```
-flask_restful/
-│── app.py
-│── requirements.txt
-│── README.md
-│── venv/          # ignored
-│── instance/      # ignored
-```
-
----
-
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Sud123231/Rest-Api-Project.git
-cd Rest-Api-Project
-```
-
-### 2️⃣ Create and activate virtual environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate  # Linux / macOS
-```
-
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the application
-
-```bash
-python app.py
-```
-
-The server will start at:
-
-```
-http://127.0.0.1:5000/
-```
-
----
-
 ## 🗄 Database
 
 * Database: **SQLite**
